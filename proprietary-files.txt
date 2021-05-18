@@ -128,9 +128,6 @@ system_ext/framework/qcrilhook.jar
 vendor/lib/soundfx/libvolumelistener.so:product/vendor_overlay/30/lib/soundfx/libvolumelistener.so:|672ad577dab5221bdd7f840d87313e3483aebde0
 vendor/lib64/soundfx/libvolumelistener.so:product/vendor_overlay/30/lib64/soundfx/libvolumelistener.so|c25cc5e8c3622eb97d3bb4814aeb301c01d8b046
 
-# Telephony
-system_ext/framework/qti-telephony-common.jar|bfa766915a0e2b25de395e907e6ec389309c5122
-
 # WiFi Display
 -framework/WfdCommon.jar
 system_ext/bin/wfdservice
