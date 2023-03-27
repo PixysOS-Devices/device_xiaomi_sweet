@@ -29,7 +29,6 @@ import android.util.Log;
 
 import androidx.preference.PreferenceManager;
 import org.lineageos.settings.device.thermal.ThermalUtils;
-import org.lineageos.settings.device.refreshrate.RefreshUtils;
 
 import org.lineageos.settings.device.Constants;
 import org.lineageos.settings.device.dirac.DiracUtils;
@@ -54,6 +53,5 @@ public class BootCompletedReceiver extends BroadcastReceiver {
             Log.d(TAG, "Dirac is not present in system");
         }
         ThermalUtils.startService(context);
-        RefreshUtils.startService(context);
     }
 }
