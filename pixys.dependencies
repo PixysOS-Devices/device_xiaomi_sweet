@@ -1,0 +1,38 @@
+[
+  {
+    "remote": "github",
+    "repository": "PixysOS-Devices/hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "thirteen"
+  },
+  {
+    "remote": "github",
+    "repository": "PixysOS-Devices/kernel_xiaomi_sweet",
+    "target_path": "kernel/xiaomi/sweet",
+    "branch": "thirteen"
+  },
+  {
+    "remote": "github",
+    "repository": "omnitrix21/android_vendor_xiaomi_sweet",
+    "target_path": "vendor/xiaomi/sweet",
+    "branch": "13"
+  },
+  {
+    "remote": "github",
+    "repository": "omnitrix21/android_vendor_xiaomi_sm6150-common",
+    "target_path": "vendor/xiaomi/sm6150-common",
+    "branch": "13"
+  },
+  {
+   "remote": "github",
+    "repository": "PixysOS-Devices/device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "branch": "thirteen"
+  },
+  {
+   "remote": "gitlab",
+    "repository": "okand7946/vendor_xiaomi_sweet-miuicamera",
+    "target_path": "vendor/xiaomi/sweet-miuicamera",
+    "branch": "13-pixys"
+  }
+]
