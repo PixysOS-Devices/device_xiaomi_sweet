@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "PixysOS-Devices/kernel_xiaomi_sweet",
-    "target_path": "kernel/xiaomi/sweet",
-    "branch": "thirteen"
+    "repository": "itsshashanksp/kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "t13"
   },
   {
     "remote": "github",
@@ -34,5 +34,11 @@
     "repository": "okand7946/vendor_xiaomi_sweet-miuicamera",
     "target_path": "vendor/xiaomi/sweet-miuicamera",
     "branch": "13-pixys"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "itsshashanksp/android_prebuilts_clang_host_linux-x86_clang-r487747c.git",
+    "target_path": "prebuilts/clang/host/linux-x86/r487747c",
+    "branch": "13.0"
   }
 ]
