@@ -16,9 +16,6 @@ $(call inherit-product-if-exists, vendor/xiaomi/sweet-miuicamera/products/miuica
 # API level, the device has been commercially launched on
 PRODUCT_SHIPPING_API_LEVEL := 30
 
-# APEX
-PRODUCT_PRODUCT_PROPERTIES += ro.apex.updatable=false
-
 # Audio
 PRODUCT_PACKAGES += \
     libtinycompress
