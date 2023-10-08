@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "itsshashanksp/kernel_xiaomi_sm6150",
-    "target_path": "kernel/xiaomi/sm6150",
-    "branch": "t13"
+    "repository": "pulkit077/kernel_xiaomi_sweet",
+    "target_path": "kernel/xiaomi/sweet",
+    "branch": "lineage-20-ln8000"
   },
   {
     "remote": "github",
