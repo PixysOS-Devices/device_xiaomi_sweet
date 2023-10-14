@@ -15,13 +15,13 @@
     "remote": "github",
     "repository": "omnitrix21/android_vendor_xiaomi_sweet",
     "target_path": "vendor/xiaomi/sweet",
-    "branch": "13"
+    "branch": "U"
   },
   {
     "remote": "github",
     "repository": "omnitrix21/android_vendor_xiaomi_sm6150-common",
     "target_path": "vendor/xiaomi/sm6150-common",
-    "branch": "13"
+    "branch": "U"
   },
   {
    "remote": "github",
