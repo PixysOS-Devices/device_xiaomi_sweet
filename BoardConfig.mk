@@ -96,7 +96,7 @@ SELINUX_IGNORE_NEVERALLOWS := true
 TARGET_USE_AOSP_SURFACEFLINGER := true
 
 # Vendor security patch level
-VENDOR_SECURITY_PATCH := 2023-04-01
+VENDOR_SECURITY_PATCH := 2023-09-01
 
 # Inherit from proprietary files
 include vendor/xiaomi/sweet/BoardConfigVendor.mk
